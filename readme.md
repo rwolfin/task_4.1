@@ -9,7 +9,7 @@ LICENSE: [MIT](./license.md)
 --- 
 ### Содержание: 
 
-1. Что-то
+1. [Список команд git](./comands.md)
 2. [git add](./add.md)
 
 ---
