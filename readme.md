@@ -9,18 +9,18 @@ LICENSE: [MIT](./license.md)
 --- 
 ### Содержание: 
 
-1. [git config](./config.md)
-2. [git init](./init.md)
-3. [git add](./add.md)
-4. [git status](./status.md)
-5. [git commit](./commit.md)
-6. [git log](./log.md)
-7. [git show](./show.md)
-8. [git diff](./diff.md)
-9. [git branch](./branch.md)
-10. [git merge](./merge.md)
-11. [git pull](./pull.md)
-12. [git push](./push.md)
+- [git config](./config.md)
+- [git init](./init.md)
+- [git add](./add.md)
+- [git status](./status.md)
+- [git commit](./commit.md)
+- [git log](./log.md)
+- [git show](./show.md)
+- [git diff](./diff.md)
+- [git branch](./branch.md)
+- [git merge](./merge.md)
+- [git pull](./pull.md)
+- [git push](./push.md)
 
 ---
 
