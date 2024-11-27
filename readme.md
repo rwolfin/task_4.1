@@ -10,7 +10,7 @@ LICENSE: [MIT](./license.md)
 ### Содержание: 
 
 - :one: [git config](./config.md)
-- [git init](./init.md)
+- 2️⃣: [git init](./init.md)
 - [git add](./add.md)
 - [git status](./status.md)
 - [git commit](./commit.md)
