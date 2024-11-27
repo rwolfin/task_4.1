@@ -1,4 +1,4 @@
-[< к содержанию](./readme.md) :leftwards_arrow_with_hook:
+[:leftwards_arrow_with_hook: к содержанию](./readme.md) 
 
 
 ## git init
