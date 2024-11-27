@@ -11,4 +11,4 @@
 git status
 ```
 
-![git-logo](./assets/logo.png)
+![git-logo](./assets/status.jpg)
