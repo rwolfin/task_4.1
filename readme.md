@@ -19,8 +19,8 @@ LICENSE: [MIT](./license.md)
 - :eight: [git diff](./diff.md)
 - :nine: [git branch](./branch.md)
 - :keycap_ten: [git merge](./merge.md)
-- :11: [git pull](./pull.md)
-- :12: [git push](./push.md)
+- :arrows_clockwise: [git pull](./pull.md)
+- :arrow_upper_right: [git push](./push.md)
 
 ---
 
