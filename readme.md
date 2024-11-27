@@ -20,7 +20,7 @@ LICENSE: [MIT](./license.md)
 - :nine: [git branch](./branch.md)
 - :keycap_ten: [git merge](./merge.md)
 - :arrows_clockwise: [git pull](./pull.md)
-- :arrow_upper_right: [git push](./push.md)
+- :round_pushpin: [git push](./push.md)
 
 ---
 
